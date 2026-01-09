@@ -1,6 +1,6 @@
 # 💎 Diamond Dasher Cheat
 
-A trainer/cheat for ![**Diamond Dasher**](https://ttvideogamedesign.itch.io/diamond-dasher) (Unity Mono game) featuring level skip and camera zoom controls.
+A trainer/cheat for [Diamond Dasher](https://ttvideogamedesign.itch.io/diamond-dasher) (Unity Mono game) featuring level skip and camera zoom controls.
 
 ![Unity](https://img.shields.io/badge/Unity-Mono-blue)
 ![C#](https://img.shields.io/badge/C%23-.NET%20Framework%204.8-green)
