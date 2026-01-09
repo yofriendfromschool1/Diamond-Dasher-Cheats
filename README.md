@@ -101,14 +101,3 @@ This cheat works by:
 | Levels | 8 scenes (0 = Menu, 1-7 = Gameplay) |
 | Key Classes | `PlayerMovement`, `CameraController`, `LevelSender` |
 
----
-
-## ⚠️ Disclaimer
-
-This project is for **educational purposes only**. Use at your own risk. Not intended for use in online/multiplayer scenarios.
-
----
-
-## 📄 License
-
-MIT License - See [LICENSE](LICENSE) for details.
